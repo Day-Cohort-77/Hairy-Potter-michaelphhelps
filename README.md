@@ -37,7 +37,7 @@ code .
 In the `main.js` module, invoke the `makePottery` function and provide the required values as arguments. Store the object that gets returned into a variable, and then use `console.log()` to view the object.
 
 Once you have it working, make 5 pieces of pottery in `main.js`.
-
+         
 **THEN PUSH YOUR CODE TO GITHUB**
 
 ### Firing the Pottery in the Kiln
